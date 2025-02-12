@@ -13,6 +13,12 @@ A aplicação permite que os participantes adicionem seus nomes, sorteiem seus a
 
 ### 🛠️ Ferramentas e Tecnologias Utilizadas
 
+<div align="center">
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" />
+</div>
+
 - **HTML**: Para estruturar o conteúdo.
 - **CSS**: Para estilizar e tornar o layout visualmente atraente.
 - **JavaScript**: Para a lógica do sorteio e interação com o usuário.
